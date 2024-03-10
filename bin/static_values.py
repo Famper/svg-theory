@@ -1,0 +1,13 @@
+START: int = 10
+MAIN_MENU: int = 11
+CHOICE_FIRST_BOT: int = 12
+CHOICE_SECOND_BOT: int = 13
+SHOW_RESULT: int = 14
+
+LANGUAGES_VALIDATIONS: tuple = (1, 2)
+LANGUAGES: dict = {1: "EN", 2: "RU"}
+
+MAIN_MENU_VALIDATIONS: tuple = (0, 1, 2)
+EXIT: int = 0
+START_SIMULATION: int = 1
+SELECT_LANGUAGE: int = 2
